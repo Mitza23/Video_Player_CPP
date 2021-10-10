@@ -1,0 +1,60 @@
+C++ Fundamentals
+King AJ
+123
+34
+10000
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+Python Fundamentals
+King AJ
+120
+4
+18900
+https://www.youtube.com/watch?v=Woc03yg8dqQ
+C Fundamentals
+King AJ
+96
+15
+3000
+https://www.youtube.com/watch?v=Yd-yqtB8UPc
+Javra Fundamentals
+King AJ
+85
+6
+25463
+https://www.youtube.com/watch?v=Vr_NK0LFFnQ
+DSA I
+Jhou
+60
+6
+25463
+https://www.youtube.com/watch?v=0CRbZSqSwwA
+DSA II
+Jhou
+56
+2
+6789
+https://www.youtube.com/watch?v=GuTB-eWPnRs
+DSA III
+Jhou
+67
+23
+4566
+https://www.youtube.com/watch?v=_z5D_VBFB1E
+DSA IV
+Jhou
+80
+7
+5004
+https://www.youtube.com/watch?v=1at7kKzBYxI
+CSA Basics
+VanC
+214
+59
+999999
+https://www.youtube.com/watch?v=n8LUQGOe1Ks
+CSA and C
+VanC
+234
+59
+999999
+https://www.youtube.com/watch?v=U-dwjybcAZw
